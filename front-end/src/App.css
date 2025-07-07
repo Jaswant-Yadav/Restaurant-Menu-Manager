@@ -1,0 +1,88 @@
+.navbar-ul{
+    margin: 0;
+    padding: 0;
+    background-color: skyblue;
+}
+
+.navbar-ul li{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+
+.navbar-ul li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.nav-right{
+    text-align: right;
+}
+
+.Items, .login, .signup, .UpdateMenu{
+    margin-left: 30%;
+}
+
+.inputBox{
+    display: block;
+    margin: 25px;
+    padding: 10px;
+    width: 300px;
+    border: 1px solid skyblue;
+}
+.AddBtn, .UpdateBtn{
+    margin: 25px;
+    padding: 10px;
+    width: 150px;
+    background-color: rgb(146, 133, 158);
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 20px;
+}
+.invalid-input{
+    color: red;
+    display: block;
+    margin-top: -20px;
+    margin-left: 30px;
+}
+
+.signlink{
+    margin-left: 10%;
+}
+.loglink{
+    margin-left: 5%;
+}
+
+.loginbtn, .signbtn{
+    margin: 5px;
+    padding: 10px;
+    width: 150px;
+    background-color: rgb(146, 133, 158);
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: 10%;
+}
+
+.Menu-list{
+    text-align: center;
+}
+.Menu-list ul li{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 10px;
+    width: 120px;
+    color: blue;
+}
+.Menu-list ul{
+    margin: 0;
+}
+
+.Search-Box{
+    width: 400px;
+    margin: 20px;
+    height: 40px;
+    border: 1px solid skyblue;
+    padding-left: 15px;
+}
